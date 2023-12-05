@@ -26,8 +26,8 @@
 <h3>Not Yet Implemented</h3>
 <h3>Hotkey actions</h3>
  
-| Hotkey Action | Gesture | 
-|:---:|:---|
+| Hotkey Action | Gesture | Implemented |
+|:---:|:---|:---:|
 | Netflix (Edge) | Hold index and middle finger pointing to left. (Sideways "2") |
 | Prime Video (Edge) | Index, Middle, Ring finger pointing left. (Sideways "3") |
 | Youtube (Firefox) | Index, Middle, Ring, Pinkey pointing left. (Sideways "4") |
